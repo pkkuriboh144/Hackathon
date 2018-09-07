@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Suspicion Snitch</string>
+    <string name="login_name">Welcome to Suspicion Snitch</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="login">Login</string>
+    <string name="signup">Sign Up</string>
+    <string name="report">Online Report</string>
+    <string name="disclaimer">Disclaimer: In case of emergency please dial 911 or if filling an official report please press button below:</string>
+</resources>
